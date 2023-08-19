@@ -1,0 +1,78 @@
+#titulo{
+    color: #0c745a
+}
+
+strong{
+    color: red;
+}
+
+.destacado{
+    color: #e7c754;
+}
+
+#subtitulo{
+    color: blue
+}
+
+a{
+    color: #CC0000;
+}
+
+em{
+    color: blue;
+}
+
+span{
+    color: #670f89;
+}
+
+
+thead .especial{
+    color: #e3be44;
+}
+
+tbody .especial{
+    color: #e3be44;
+}
+
+tbody th{
+    color: red;
+}
+
+tbody td{
+    color: rgb(9, 110, 59);
+}
+
+tbody em{
+    color: rgb(9, 110, 59);
+}
+
+tbody strong{
+    color:  #e3be44;
+}
+
+tfoot th{
+    color: red;
+}
+
+table,th,td{
+    border: 0.5px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#adicional p{
+    color: #9fb359;
+}
+
+#adicional span{
+    color: #9fb359;
+}
+
+#adicional #especial{
+    color: #e044e3;
+}
+
+#adicional a{
+    color: #115d13;
+}

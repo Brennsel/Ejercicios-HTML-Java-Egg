@@ -1,0 +1,20 @@
+body{
+    background-color: #b1c0f2;   
+}
+
+
+h1{
+    text-align: center;
+    color: #ff00ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+h2{
+    text-align: center;
+    color: #cd5bbf;
+}
+
+p{
+    text-align: left;
+    color: #be81bd;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
